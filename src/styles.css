@@ -26,6 +26,7 @@ h6 {
 }
 .about-section h2 {
   font-size: 18px;
+  font-weight: bold;
   font-family: var(--default-font-family);
 }
 p {
@@ -38,6 +39,12 @@ p {
   border-radius: 4px;
   color: white;
   font-size: 18px;
+  font-weight: bold;
   line-height: 27px;
   padding: 15px 30px;
+}
+.img-fluid {
+  width: 100%;
+  height: auto;
+  border-radius: 10xpx;
 }
