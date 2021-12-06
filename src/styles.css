@@ -48,6 +48,9 @@ p {
   height: auto;
   border-radius: 10xpx;
 }
+.headshot {
+  border-radius: 20px;
+}
 .content-container {
   padding: 160px 20px;
 }
