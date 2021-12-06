@@ -48,3 +48,14 @@ p {
   height: auto;
   border-radius: 10xpx;
 }
+.content-container {
+  padding: 160px 20px;
+}
+.content {
+  margin: 30px;
+}
+.content h1 {
+  font-size: 64px;
+  line-height: 80px;
+  text-align: center;
+}
